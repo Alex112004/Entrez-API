@@ -30,7 +30,7 @@ O que queremos pesquisar na base de dados. Caso seja coposto por mais de um elem
 
 **Exemplo**
 
-python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]"
+python3 homework_asb_1.py nucleotide "Psammodromus algirus[organism], cytb[gene]"
 
 **Bibliografia**
 
